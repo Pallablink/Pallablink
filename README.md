@@ -1,10 +1,14 @@
 <div align="center">
 
-# Pallab Jyoti Das
+<img src="./assets/hero-banner.svg" alt="Pallab Jyoti Das - Founder & Full-Stack Software Engineer" width="100%" />
 
-### Founder & Full-Stack Software Engineer at [Amsniex](https://amsniex.in)
+<br /><br />
 
-**Assam, India** · Building scalable web platforms, real-time applications, and mobile products
+<a href="https://amsniex.in">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Founder+%26+Full-Stack+Software+Engineer+%40+Amsniex;Building+TypeScript%2C+React%2C+PHP+%26+Kotlin+Applications;Turning+Ideas+Into+Impactful+Digital+Experiences" alt="Typing SVG" />
+</a>
+
+<br />
 
 [![Website](https://img.shields.io/badge/Website-amsniex.in-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amsniex.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Pallablink-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pallablink)
@@ -12,17 +16,19 @@
 
 </div>
 
----
+<br />
+
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## About Me
 
-I am **Pallab Jyoti Das**, a **Founder, Entrepreneur, and Full-Stack Developer** based in **Assam, India**, leading engineering and product development at **[Amsniex](https://amsniex.in)**. I focus on turning ideas into practical, high-impact software — spanning responsive web applications, backend APIs, database-driven systems, and native Android apps.
+I am **Pallab Jyoti Das**, a **Founder, Entrepreneur, and Full-Stack Developer** based in **Assam, India**, leading product engineering and software development at **[Amsniex](https://amsniex.in)**. I focus on turning ideas into practical, high-impact software — spanning responsive web platforms, backend APIs, database-driven systems, and native Android apps.
 
 - **Building:** End-to-end web portals, real-time interactive platforms, and companion admin dashboards
 - **Engineering Focus:** Full-stack architecture across TypeScript/React, PHP/MySQL backends, and Kotlin Android applications
 - **Explore:** [amsniex.in](https://amsniex.in) · [All Public Repositories](https://github.com/Pallablink?tab=repositories)
 
----
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## Core Engineering Stack
 
@@ -53,7 +59,7 @@ I am **Pallab Jyoti Das**, a **Founder, Entrepreneur, and Full-Stack Developer**
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## Featured Public Projects
 
@@ -64,9 +70,9 @@ I am **Pallab Jyoti Das**, a **Founder, Entrepreneur, and Full-Stack Developer**
 | **[sanant-portal-suite](https://github.com/Pallablink/sanant-portal-suite)** | Interactive gaming and portal web application suite | `Web Suite` |
 | **[diuwin-gaming-portal](https://github.com/Pallablink/diuwin-gaming-portal)** | Online gaming and color prediction portal | `Web Portal` |
 
----
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-## GitHub Activity
+## GitHub Analytics & Activity
 
 <div align="center">
 
@@ -77,9 +83,21 @@ I am **Pallab Jyoti Das**, a **Founder, Entrepreneur, and Full-Stack Developer**
 
 <img src="https://streak-stats.demolab.com/?user=Pallablink&theme=tokyonight&hide_border=true" alt="Pallablink GitHub Streak" />
 
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pallablink&theme=tokyo-night&hide_border=true&area=true" alt="Pallablink Contribution Activity Graph" width="100%" />
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pallablink/Pallablink/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pallablink/Pallablink/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Pallablink/Pallablink/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 <div align="center">
 
